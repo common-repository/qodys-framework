@@ -1,0 +1,17 @@
+.widefat {
+	/*margin-bottom: 0px !important;*/
+}
+
+.owl_sidebar {
+	margin: 0px auto;
+	display:block;
+	position: relative;
+	z-index:9999;
+}
+.sub_setting_label {
+	margin-left:15px;
+}
+
+.form-table th .sub_setting_label {
+	font-weight:normal;
+}
